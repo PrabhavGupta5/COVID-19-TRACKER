@@ -1,5 +1,5 @@
 # Presenting Covid-19 Tracker 
-### React ###Covid-19 Tracker
+
 
 ## Table of contents
 * [General info](#general-info)
